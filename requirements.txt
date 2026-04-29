@@ -1,4 +1,7 @@
 tensorflow
+keras
 opencv-python
 numpy
 flask
+scikit-learn
+matplotlib
